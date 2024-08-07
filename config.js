@@ -17,9 +17,9 @@ global.groupevent = true;                //This is the new variable for controll
 global.statusseen = false;                 //make true to view statuses 
 
 
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
+global.Owner = ["INFINITE EDITS"];
+global.OwnerNumber = ["2348150351856"];
+global.ownertag = ["2348150351856"]; 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "🐦Makino-md-v2";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
