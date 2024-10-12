@@ -18,8 +18,8 @@ global.statusseen = false;                 //make true to view statuses
 
 
 global.Owner = ["INFINITE EDITS"];
-global.OwnerNumber = ["2347026537089"];
-global.ownertag = ["2347026537089"]; 
+global.OwnerNumber = ["2348150351856"];
+global.ownertag = ["2348150351856"]; 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "🐦Makino-md-v2";q
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
